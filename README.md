@@ -8,5 +8,6 @@ Usage
 run the containers:
 
     ```sh
+    $ cd DjangoRestApisPostgreSQL
     $ docker-compose up -d --build
     ```

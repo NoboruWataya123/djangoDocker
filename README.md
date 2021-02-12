@@ -12,9 +12,14 @@ run the containers:
     $ docker-compose up -d --build
     ```
 #Api:
-(127.0.0.1:8000)
+[127.0.0.1:8000
+](http://127.0.0.1:8000
+/)
+
 
 #Postgres:
-(127.0.0.1:5432)
+[127.0.0.1:5432
+](http://127.0.0.1:5432
+/)
 user: hello_django
 password: hello_django
